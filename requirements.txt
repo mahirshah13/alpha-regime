@@ -1,0 +1,11 @@
+streamlit>=1.25.0
+yfinance>=0.2.18
+pandas>=1.5.3
+numpy>=1.23.0
+scikit-learn>=1.2.0
+matplotlib>=3.7.0
+xgboost>=1.7.6
+hmmlearn>=0.2.8
+pandas_datareader>=0.10.0
+ruptures>=1.1.7
+python-dotenv>=1.0.0
